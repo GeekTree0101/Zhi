@@ -1,0 +1,6 @@
+framework module Pods_Zhi_Example {
+  umbrella header "Pods-Zhi_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

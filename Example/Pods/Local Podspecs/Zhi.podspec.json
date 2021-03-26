@@ -1,0 +1,22 @@
+{
+  "name": "Zhi",
+  "version": "0.1.0",
+  "summary": "A short description of Zhi.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Geektree0101/Zhi",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Geektree0101": "h2s1880@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/Geektree0101/Zhi.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "Zhi/Classes/**/*"
+}

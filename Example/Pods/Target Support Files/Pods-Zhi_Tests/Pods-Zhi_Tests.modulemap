@@ -1,0 +1,6 @@
+framework module Pods_Zhi_Tests {
+  umbrella header "Pods-Zhi_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

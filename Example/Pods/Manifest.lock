@@ -1,0 +1,27 @@
+PODS:
+  - Nimble (8.0.9)
+  - Quick (2.2.1)
+  - Zhi (0.1.0)
+
+DEPENDENCIES:
+  - Nimble (~> 8.0.7)
+  - Quick (~> 2.2.0)
+  - Zhi (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - Nimble
+    - Quick
+
+EXTERNAL SOURCES:
+  Zhi:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Nimble: 98b888285a615fd34f20e61753cf58ea1402bde4
+  Quick: f5754d69b7013f5864c29aab9ae6f0c79c5bc200
+  Zhi: 8025288ee180c7c4e1923191dadbcf2c498db0ab
+
+PODFILE CHECKSUM: ec24feccc2e42984077ce8795d0ceb40c32d7bc1
+
+COCOAPODS: 1.10.0
